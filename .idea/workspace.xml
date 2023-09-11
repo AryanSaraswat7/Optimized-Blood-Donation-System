@@ -20,6 +20,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -56,7 +59,8 @@
       <workItem from="1694270881449" duration="627000" />
       <workItem from="1694298741008" duration="7924000" />
       <workItem from="1694375561614" duration="45000" />
-      <workItem from="1694431345695" duration="6988000" />
+      <workItem from="1694431345695" duration="7883000" />
+      <workItem from="1694446314138" duration="7025000" />
     </task>
     <servers />
   </component>
