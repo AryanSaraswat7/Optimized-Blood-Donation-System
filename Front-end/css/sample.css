@@ -15,9 +15,9 @@ nav
     justify-content: space-around;
     background-color: white;
     padding: 0 10%;
-    height: 10vh;
+    height: 12vh;
     align-items: center;
-
+    background-image: url("");
 
 }
 nav .left
@@ -31,7 +31,10 @@ nav .left
     text-shadow: -1px 1px 0 #FF0000,
     1px 1px 0 #FF0000,
     1px -1px 0 #FF0000,
-    -1px -1px 0 #FF0000
+    -1px -1px 0 #FF0000;
+    outline-style: solid;
+    outline-offset: 7px;
+    border-radius: 20px;
 }
 nav ul
 {
@@ -61,4 +64,19 @@ img
 {
     width: 50px;
     height: 35px;
+}
+#rbcVideo
+{
+    width:100%;
+    opacity: 0.6;
+    z-index: -1;
+    position: absolute;
+}
+.firstSection
+{
+    position: relative;
+}
+.secondSection
+{
+  background-color: white;
 }
