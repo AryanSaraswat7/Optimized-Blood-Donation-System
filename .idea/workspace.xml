@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1960accf-d4cc-40c8-bd71-fda303857d0a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-end/css/sample.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/css/sample.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-end/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -60,7 +58,7 @@
       <workItem from="1694298741008" duration="7924000" />
       <workItem from="1694375561614" duration="45000" />
       <workItem from="1694431345695" duration="7883000" />
-      <workItem from="1694446314138" duration="7025000" />
+      <workItem from="1694446314138" duration="8074000" />
     </task>
     <servers />
   </component>
