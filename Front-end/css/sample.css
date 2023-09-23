@@ -123,10 +123,11 @@ img
     padding-left: 10px;
 
 }
-#img1
+.rightSection #img1
 {
     width: 600px;
     height: 560px;
-   padding-right: 7px;
+   padding-right: 45px;
+    padding-top: 50px;
     border-radius: 10px;
 }
