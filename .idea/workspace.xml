@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1960accf-d4cc-40c8-bd71-fda303857d0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Back-end/JDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-end/recipient.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-end/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-end/css/sample.css" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/css/sample.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front-end/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/donor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Front-end/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front-end/login1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/login1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +84,9 @@
       <workItem from="1698053805212" duration="4142000" />
       <workItem from="1698133960959" duration="6426000" />
       <workItem from="1698261022090" duration="2877000" />
+      <workItem from="1698267434005" duration="387000" />
+      <workItem from="1698336969820" duration="2002000" />
+      <workItem from="1698379006093" duration="375000" />
     </task>
     <servers />
   </component>

@@ -16,7 +16,7 @@ $stmt = $conn->prepare("insert into donor_data(name,blood_group,age,email,aadhar
      values(?,?,?,?,?)");
      $stmt->bind_param("ssiss",$name,$blood_group,$age,$email,$aadhar_number);
      $stmt->execute();
-     echo "Your Registration is successful, wait while we find a potential recipient";
+     echo "Your Registration is successful, please wait while we find a potential recipient for you";
      $stmt->close();
      $conn->close();
 }
