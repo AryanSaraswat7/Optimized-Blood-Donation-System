@@ -16,8 +16,12 @@ $stmt = $conn->prepare("insert into recipient_data(name,blood_group,age,email,aa
      values(?,?,?,?,?)");
      $stmt->bind_param("ssisi",$name,$blood_group,$age,$email,$aadhar_number);
      $stmt->execute();
+<<<<<<< HEAD
      echo "Your Registration as recipient is successfull";
      require_once 'matching_algo.php';
+=======
+     echo "Your Registration is successful, wait while we find a potential Donor for you";
+>>>>>>> 5050328d8b2bc77909f52630e95a670b392c7696
      $stmt->close();
      $conn->close();
 }
