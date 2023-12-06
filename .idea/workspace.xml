@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1960accf-d4cc-40c8-bd71-fda303857d0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Back-end/JDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Front-end/recipient.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Front-end/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/donor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Front-end/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front-end/login.html" afterDir="false" />
@@ -83,7 +85,16 @@
       <workItem from="1698133960959" duration="6426000" />
       <workItem from="1698261022090" duration="2877000" />
       <workItem from="1698267434005" duration="387000" />
+<<<<<<< HEAD
       <workItem from="1698336969820" duration="1758000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1698336969820" duration="1758000" />
+=======
+      <workItem from="1698336969820" duration="2002000" />
+      <workItem from="1698379006093" duration="375000" />
+>>>>>>> 5050328d8b2bc77909f52630e95a670b392c7696
+>>>>>>> 3da0587fc3d60f8fd2313e7b393111d85868c515
     </task>
     <servers />
   </component>
